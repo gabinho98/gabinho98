@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hello I'm Gabriel Vale  <img src="https://media2.giphy.com/media/2w5MMNvg70MrQ0I2DR/giphy.gif?cid=ecf05e47srxm17efz95roh3yxh55l1sn441ynxope8t45z2r&rid=giphy.gif&ct=g" width="50">
+Hello I'm Gabriel Vale  <img src=https://media3.giphy.com/media/26FL0ydLDEcARWY0g/giphy.gif?cid=ecf05e47u4yo34zh75kr3fxohn77jvrdxcg2b97a400idqlr&rid=giphy.gif&ct=g" width="50">
 </h1>
 
 <!--
